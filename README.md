@@ -15,3 +15,4 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 - 120
 - 120
 - 60
+- 60
