@@ -1,4 +1,4 @@
-# About
+ｎ# About
 Please tell me the favorite type or spesific shop of ramens. 好きなラーメン(種類、店など)を教えてください</br>
 Either Japanese or English is fine. 日本語英語どちらでもOK
 
@@ -21,3 +21,4 @@ Examples:
 * Chinese-Style Soba(中華そば)
 * atashino ramen tabetadesho 2
 * The Most Deserted Ramen Bar in the World(世界一暇なラーメン屋)
+* Konshinya (こんしんや)
