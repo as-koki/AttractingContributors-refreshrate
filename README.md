@@ -17,3 +17,4 @@ As part of the Software Engineering Class, we would like to simulate how Open So
 - 60
 - 60
 - 75Hz
+- 60
